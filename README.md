@@ -29,12 +29,12 @@ Demo: https://langgraphchatbot-8pmyndeomjhbygjtepqmvt.streamlit.app/
 ---
 
 # Project Structure
-  ChatBot_using_langgraph
-  │
-  ├── langgraph_backend.py        # LangGraph workflow and chatbot logic
-  ├── streamlit_frontend.py       # Basic Streamlit chat interface
-  ├── streamlit_with_streaming.py # Streamlit UI with streaming responses
-  ├── requirements.txt
+    ChatBot_using_langgraph
+    │
+    ├── langgraph_backend.py        # LangGraph workflow and chatbot logic
+    ├── streamlit_frontend.py       # Basic Streamlit chat interface
+    ├── streamlit_with_streaming.py # Streamlit UI with streaming responses
+    ├── requirements.txt
 
 ---
 
