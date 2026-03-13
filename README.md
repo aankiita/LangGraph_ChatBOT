@@ -49,12 +49,12 @@ Demo: https://langgraphchatbot-8pmyndeomjhbygjtepqmvt.streamlit.app/
 ---
 
 # Running the Project Locally
-  1️⃣ Clone the repository
-  git clone https://github.com/your-username/langgraph-chatbot.git
-  cd langgraph-chatbot
-  2️⃣ Install dependencies
-  pip install -r requirements.txt
-  3️⃣ Add your API key
+  * 1️⃣ Clone the repository
+      git clone https://github.com/your-username/langgraph-chatbot.git
+      cd langgraph-chatbot
+  * 2️⃣ Install dependencies
+      pip install -r requirements.txt
+  * 3️⃣ Add your API key
   
 ---
 
@@ -62,7 +62,7 @@ Create a .env file in the root directory and add your Groq API key:
 
 * GROQ_API_KEY=your_api_key_here
   4️⃣ Run the Streamlit app
-  streamlit run streamlit_with_streaming.py
+  * streamlit run streamlit_with_streaming.py
 
 After running the command, open the link shown in the terminal (usually):
 
